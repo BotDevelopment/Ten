@@ -1,0 +1,24 @@
+        Real-Time MessagingMobile Chat
+
+Search Results
+Webhook API - Support SDK for iOS - Zendesk Developer Portal
+https://developer.zendesk.com/embeddables/docs/ios/push_notifications_webhook
+Webhook API. Zendesk notifies an endpoint that you set up when a notification needs to be sent. After that, your service must handle sending the push ...
+Webhook API - Support SDK for Android - Zendesk Developer Portal
+https://developer.zendesk.com/embeddables/docs/.../push_notifications_webhook
+Webhook API. Zendesk notifies an endpoint that you set up when a notification needs to be sent. After that, your service must handle sending the push ...
+Dispatch Integration with Zendesk - Apps into Zendesk Help Desk
+https://www.zendesk.com/apps/dispatch/
+Create tickets automatically with data extracted from email and webhooks.
+GitHub - layerhq/node-layer-webhooks-services-zendesk: Zendesk ...
+https://github.com/layerhq/node-layer-webhooks-services-zendesk
+Zendesk Layer Webhook Integration. Contribute to node-layer-webhooks-services-zendesk development by creating an account on GitHub.
+Adding a Zendesk Bot – Kore
+https://support.kore.com/hc/en-us/articles/205104348-Adding-a-Zendesk-Bot
+Jul 15, 2016 - Zendesk is a Bot which can be configured as a webhook or a web service. Both types of integration offer similar tasks and requires a Zendesk ...
+Zendesk with Visual Studio Team Services
+https://www.visualstudio.com/en-us/docs/service-hooks/services/zendesk
+May 20, 2016 - Use ZenDesk with your Visual Studio Team Services account. ... WebHooks · Zapier ... Visual Studio Team Services for Zendesk, new work item.
+Webhooks by Zapier & Zendesk Integrations - Zapbook - Zapier
+https://zapier.com/zapbook/webhook/zendesk/
+Zapier is a web app designed to make integrations of apps like Zendesk and Webhook. You can use our simple interface to quickly design your own custom ...
